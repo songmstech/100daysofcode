@@ -76,10 +76,3 @@ public class VariablePractice {// class Start
 	} // method4() End
 
 }// class End
-
-
-
-
-
-
-
