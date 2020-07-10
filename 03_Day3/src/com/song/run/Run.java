@@ -7,8 +7,8 @@ public class Run {
 	public static void main(String[] args) {
 		
 		Variable v = new Variable();
-		v.overflow();
-		
+		//v.overflow();
+		v.printf();
 	}
 
 }
