@@ -31,7 +31,7 @@ public class Main {
 				
 				sc.nextLine();
 				
-				String[] newStr = new String[num + num2];
+				String[] newStr = new String[str.length + num2];
 				
 				for(int i = 0; i<newStr.length; i++) {
 					if(i <= str.length - 1) {
